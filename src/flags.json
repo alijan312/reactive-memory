@@ -1,50 +1,49 @@
-[
-    {
+[{
         "id": "1",
-        "url": "/images/colombia.png"
+        "url": "./images/colombia.png"
     },
     {
         "id": "2",
-        "url": "/images/ecuador.png"
+        "url": "./images/ecuador.png"
     },
     {
         "id": "3",
-        "url": "/images/france.png"
+        "url": "./images/france.png"
     },
     {
         "id": "4",
-        "url": "/images/indonesia.png"
+        "url": "./images/indonesia.png"
     },
     {
         "id": "5",
-        "url": "/images/luxembourg.png"
+        "url": "./images/luxembourg.png"
     },
     {
         "id": "6",
-        "url": "/images/monaco.png"
+        "url": "./images/monaco.png"
     },
     {
         "id": "7",
-        "url": "/images/netherlands.png"
+        "url": "./images/netherlands.png"
     },
     {
         "id": "8",
-        "url": "/images/poland.png"
+        "url": "./images/poland.png"
     },
     {
         "id": "9",
-        "url": "/images/russia.png"
+        "url": "./images/russia.png"
     },
     {
         "id": "10",
-        "url": "/images/slovakia.png"
+        "url": "./images/slovakia.png"
     },
     {
         "id": "11",
-        "url": "/images/slovenia.png"
+        "url": "./images/slovenia.png"
     },
     {
         "id": "12",
-        "url": "/images/venezuela.png"
+        "url": "./images/venezuela.png"
     }
 ]
