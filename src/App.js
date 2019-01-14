@@ -5,14 +5,11 @@ import ImagesContainer from './components/Main/imagesContainer';
 import Wrapper from './components/Wrapper/wrapper';
 import flags from './flags.json';
 import './app.css';
-function importAll(r){
-  return r.keys().map(r);
-}
-const images = importAll(require.context("./images", false, /\.(png)$/));
+
 
 class App extends Component {
   state = {
-    flags: images.map((e,i) => ({url: e, id: i}))
+    flags
   }
   render() {
     return (
